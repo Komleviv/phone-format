@@ -1,0 +1,16 @@
+{
+    "name": "komlev-ivan/phone-format",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "KomlevIvan\\PhoneFormat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Komlev Ivan",
+            "email": "komleviv@gmail.com"
+        }
+    ],
+    "require": {}
+}
